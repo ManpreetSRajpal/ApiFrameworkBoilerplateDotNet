@@ -1,0 +1,75 @@
+﻿<Properties StartupConfiguration="{40BAA456-58D4-4EEB-95CC-3F58B49E7284}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/manpreetrajpal/Documents/MyRepos/DotNet/APIFrameworkBoilerPlate/APIFrameworkBoilerPlate/UnitTest1.cs" relfile="APIFrameworkBoilerPlate/UnitTest1.cs" line="6" column="1" />
+      <Breakpoint file="/Users/manpreetrajpal/Documents/MyRepos/DotNet/APIFrameworkBoilerPlate/APIFrameworkBoilerPlate/UnitTest1.cs" relfile="APIFrameworkBoilerPlate/UnitTest1.cs" line="24" column="1" />
+      <Breakpoint file="/Users/manpreetrajpal/Documents/MyRepos/DotNet/APIFrameworkBoilerPlate/APIFrameworkBoilerPlate/UnitTest1.cs" relfile="APIFrameworkBoilerPlate/UnitTest1.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIFrameworkBoilerPlate/RestGetEndpoint/DataDrivenTesting/CreateUsersDDT.cs">
+    <Files>
+      <File FileName="APIFrameworkBoilerPlate/RestGetEndpoint/TestGetEndpoint.cs" Line="160" Column="63" IsPinned="True" />
+      <File FileName="ApiFrameworkCore/Model/Response/ListOfUsersRes.cs" Line="11" Column="42" />
+      <File FileName="ApiFrameworkCore/Model/Response/Datum.cs" Line="14" Column="1" />
+      <File FileName="ApiFrameworkCore/Model/Response/Support.cs" Line="11" Column="1" />
+      <File FileName="ApiFrameworkCore/Client/IClient.cs" Line="8" Column="14" />
+      <File FileName="APIFrameworkBoilerPlate/RestGetEndpoint/TestGetNewFramework.cs" Line="51" Column="32" />
+      <File FileName="ApiFrameworkCore/Client/HttpClient.cs" Line="13" Column="16" />
+      <File FileName="ApiFrameworkCore/Client/AbstractRequest.cs" Line="30" Column="2" />
+      <File FileName="ApiFrameworkCore/APIHealper/APIRequest/GetRequestBuilder.cs" Line="35" Column="10" />
+      <File FileName="ApiFrameworkCore/APIHealper/APIResponse/IRestApiResponse.cs" Line="15" Column="1" />
+      <File FileName="ApiFrameworkCore/APIHealper/APIResponse/IResponse.cs" Line="11" Column="11" />
+      <File FileName="ApiFrameworkCore/APIHealper/APIResponse/AbstractResponse.cs" Line="57" Column="1" />
+      <File FileName="ApiFrameworkCore/APIHealper/APIResponse/Response.cs" Line="25" Column="16" />
+      <File FileName="ApiFrameworkCore/APIHealper/Executor/IExecutor.cs" Line="9" Column="13" />
+      <File FileName="ApiFrameworkCore/APIHealper/Executor/Executor.cs" Line="14" Column="16" />
+      <File FileName="ApiFrameworkCore/APIHealper/Executor/RestApiExecutor.cs" Line="10" Column="15" />
+      <File FileName="ApiFrameworkCore/APIHealper/Executor/ApiExecutor.cs" Line="33" Column="36" />
+      <File FileName="APIFrameworkBoilerPlate/RestGetEndpoint/PostEndpoint/TestPostRequest.cs" Line="71" Column="1" />
+      <File FileName="ApiFrameworkCore/Model/Request/CreateUsers.cs" Line="11" Column="34" />
+      <File FileName="ApiFrameworkCore/APIHealper/APIRequest/PostRequestBuilder.cs" Line="80" Column="1" />
+      <File FileName="APIFrameworkBoilerPlate/RestGetEndpoint/PostEndpoint/TestPostRequestWithFramework.cs" Line="69" Column="38" />
+      <File FileName="ApiFrameworkCore/Model/Response/CreateUserRes.cs" Line="13" Column="6" />
+      <File FileName="APIFrameworkBoilerPlate/RestGetEndpoint/GetEndpoint/TestWithJsonPath.cs" Line="24" Column="1" />
+      <File FileName="APIFrameworkBoilerPlate/RestGetEndpoint/QueryParameter/QueryParameterDemo.cs" Line="79" Column="10" />
+      <File FileName="APIFrameworkBoilerPlate/RestGetEndpoint/DataDrivenTesting/CreateUsers.cs" Line="32" Column="6" />
+      <File FileName="APIFrameworkBoilerPlate/TestData/CreateUser.csv" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIFrameworkBoilerPlate" expanded="True" selected="True">
+            <Node name="APIFrameworkBoilerPlate" expanded="True">
+              <Node name="RestGetEndpoint" expanded="True">
+                <Node name="DataDrivenTesting" expanded="True" />
+                <Node name="GetEndpoint" expanded="True" />
+                <Node name="PostEndpoint" expanded="True" />
+              </Node>
+              <Node name="TestData" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="APIFrameworkBoilerPlate" expanded="True">
+            <Node name="APIFrameworkBoilerPlate" expanded="True">
+              <Node name="APIFrameworkBoilerPlate.RestGetEndpoint.DataDrivenTesting" expanded="True">
+                <Node name="CreateUsersDDT" expanded="True">
+                  <Node name="CreateUsersFromCsvSource" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.APIFrameworkBoilerPlate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
